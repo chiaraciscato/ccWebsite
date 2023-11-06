@@ -1,5 +1,44 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'chiara ciscato'
-
 theme = 'PaperMod'
+
+########################################################
+
+[params]
+[[homeInfoParams]]
+    title = 'hello, there!'
+    content = 'this is some information about myself'
+
+    socialIcons = [
+        { name = 'github', url = 'https://github.com/chiaraciscato', icon_pack = "fab"},
+        { name = 'email', url = 'chiara.ciscato@gmail.com',  icon_pack = "fab" },
+        { name = 'Linkedin', url = 'https://www.linkedin.com/in/chiara-ciscato-3964bb1b7/',  icon_pack = "fab" },
+    ]
+
+########################################################
+
+[menu]
+[[menu.main]]
+    identifier = 'about'
+    name = 'about'
+    pageRef = '/about'
+    weight = 10
+[[menu.main]]
+    identifier = 'contacts'
+    name = 'contacts'
+    pageRef = '/contacts'
+    weight = 20
+[[menu.main]]
+    identifier = 'projects'
+    name = 'projects'
+    pageRef = '/projects'
+    weight = 30
+[[menu.main]]
+    identifier = 'résumé'
+    name = 'résumé'
+    pageRef = '/résumé'
+    weight = 40
+
+
+

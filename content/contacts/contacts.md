@@ -1,7 +1,14 @@
 +++
 title = 'Contact'
-date = 2023-11-03T08:36:12+01:00
 draft = false
-author = 'chiara'
 language = 'english'
 +++
+
+
+email chiara.ciscato@gmail.com
+
+phone +39 333 842 9229 
+
+linkedIn
+
+github
