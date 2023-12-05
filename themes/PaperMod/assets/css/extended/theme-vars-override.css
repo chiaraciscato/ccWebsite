@@ -1,0 +1,24 @@
+/* :root {
+    --theme: #fff;
+    --entry: #cfcfff;
+    --primary: rgba(0, 0, 0, 0.88);
+    --secondary: rgba(0, 0, 0, 0.88);
+    --tertiary: rgba(0, 0, 0, 0.88);
+    --content: rgba(0, 0, 0, 0.88);
+    --hljs-bg: #c0c2c9;
+    --code-bg: #c0c2c9;
+    --border: #eee;
+}
+*/
+
+.dark {
+    --theme: rgb(111, 130, 133);
+    --entry: #b9cad1;
+    --primary: rgba(255, 255, 255, 0.96);
+    --secondary: rgba(255, 255, 255, 0.96);
+    --tertiary: rgba(255, 255, 255, 0.96);
+    --content: rgba(235, 235, 255, 0.82);
+    --hljs-bg: #fefefe;
+    --code-bg: #fcfbfb;
+    --border: rgb(255, 255, 255);
+} 
