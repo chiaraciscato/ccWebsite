@@ -1,0 +1,49 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: chiara ciscato
+theme: PaperMod
+email: chiaraciscato@email.com
+copyright: chiara ciscato 
+
+
+params:
+    ShowBreadCrumbs: true
+    profileMode:
+        enabled: true
+        title: "Hi, I'm Chiara and I am a Climate scientist" 
+        subtitle: "My research interests lie in the understanding of global as well as local climate change through data-driven storytelling."
+        imageUrl: "avatar.png" 
+        imageTitle: "chiara" 
+        imageWidth: 
+        imageHeight: 
+    socialIcons: 
+          - name: linkedin
+            url: https://www.linkedin.com/in/chiara-ciscato-3964bb1b7/
+          - name: github
+            url: https://github.com/chiaraciscato
+
+menu:
+  main:
+    - identifier: About
+      name: About
+      pageRef: /About
+      weight: 1
+    - identifier: Projects
+      name: Projects
+      pageRef: /Projects
+      weight: 2
+    - identifier: Résumé
+      name: Résumé
+      pageRef: /Résumé
+      weight: 3
+    - identifier: Write me
+      name: Write me
+      pageRef: /Write me
+      weight: 4
+
+
+taxonomies:
+    - category: categories
+    - series: series
+    - tag: tags
+
