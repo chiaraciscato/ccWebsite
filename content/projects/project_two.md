@@ -4,6 +4,10 @@ title: >-
 draft: false
 language: english
 hideSummary: true
+links:
+- icon: github
+  name: Code
+  url: https://github.com/chiaraciscato/arcticVisuals
 ---
 
 {{< rawhtml >}}
@@ -14,6 +18,6 @@ hideSummary: true
 
 <p>Together with its geographic opposite, the Antarctic, the Arctic has a fundamental role in global climate stabilisation. On the one hand, its white surface is able to radiate most of the incoming solar radiation back into space, therefore reflecting part of the Sun's heat. On the other, the Arctic tundra stores immense quantities of carbon dioxide (CO<sub>2</sub>) and methane (CH<sub>4</sub>) that would otherwise contribute to further global warming.</p>
 
-<p>With regard to climate change, the Arctic is an area of extreme vulnerability. Temperatures are rising twice as fast compared to the global average, in a process that is commonly referred to as Arctic amplification. </p>
+<p>With regard to climate change, the Arctic is an area of extreme vulnerability. Temperatures are rising twice to three times as fast compared to the global average, in a process that is commonly referred to as Arctic amplification. When sea ice melts, it leaves land and ocean surfaces uncovered which, of darker colour, absorb heat and accelerate further ice loss. </p>
 
 {{< /rawhtml >}}
