@@ -8,7 +8,7 @@ showbreadcrumbs: true
 
 {{< rawhtml >}}
 
-<p align="center"><a href="shortCV.pdf" download="chiaraciscato_cv">
+<p align="center"><a href="shortCV.pdf" download="chiaraciscatoCV">
 <button class="btn"> download PDF <i class="fa fa-download"></i></button></a> <p>
 
 

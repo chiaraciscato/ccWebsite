@@ -20,4 +20,9 @@ links:
 
 <p>With regard to climate change, the Arctic is an area of extreme vulnerability. Temperatures are rising twice to three times as fast compared to the global average, in a process that is commonly referred to as Arctic amplification. When sea ice melts, it leaves land and ocean surfaces uncovered which, of darker colour, absorb heat and accelerate further ice loss. </p>
 
+<p>Here are some of my contributions for OsservatorioArtico, an Italian online journal that focuses on the Arctic region:<p>
+
+<p><a href="https://www.osservatorioartico.it/amplificazione-artica/" title="Arctic Amplification">Arctic Amplification</a><p>
+<p><a href="" title="Beaufort Sea">Beaufort Sea</a><p>
+
 {{< /rawhtml >}}

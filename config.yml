@@ -5,10 +5,7 @@ theme: PaperMod
 email: chiaraciscato@email.com
 copyright: chiara ciscato 
 
-
-
 params:
-    stylesheets: css/extended/blank.css
     ShowBreadCrumbs: true
     profileMode:
         enabled: true
