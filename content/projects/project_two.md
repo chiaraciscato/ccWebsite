@@ -1,6 +1,6 @@
 ---
 title: >-
- Local Climate Change in the Arctic
+ Climate Change in the Arctic
 draft: false
 language: english
 hideSummary: true
@@ -12,7 +12,7 @@ links:
 
 {{< rawhtml >}}
 
-<center><img loading="lazy" src="/temp_aug23.png" alt="" class="centerImage" width="500" height="630"></center>
+<center><img loading="lazy" src="/MonthlyArcticTemp.png" alt="" class="centerImage" width="700" height="380"></center>
 
 <p>The Arctic is the Earth's region that lies North of the 66° 34' parallel. Geographically, it expands over multiple countries, including Canada, Finland, Greenland, Iceland, Norway, Russia, Sweden and the United States, in Alaska, and it is mainly composed of water that freezes over the cold months and melts over the warm months.</p> 
 
@@ -20,9 +20,11 @@ links:
 
 <p>With regard to climate change, the Arctic is an area of extreme vulnerability. Temperatures are rising twice to three times as fast compared to the global average, in a process that is commonly referred to as Arctic amplification. When sea ice melts, it leaves land and ocean surfaces uncovered which, of darker colour, absorb heat and accelerate further ice loss. </p>
 
+<hr />
+
 <p>Here are some of my contributions for OsservatorioArtico, an Italian online journal that focuses on the Arctic region:<p>
 
-<p><a href="https://www.osservatorioartico.it/amplificazione-artica/" title="Arctic Amplification">Arctic Amplification</a><p>
-<p><a href="" title="Beaufort Sea">Beaufort Sea</a><p>
+<p><a href="https://www.osservatorioartico.it/amplificazione-artica/" title="What is Arctic Amplification">What is Arctic Amplification</a><p>
+<p><a href="" title="The Beaufort Sea is emitting CO<sub>2</sub>">The Beaufort Sea is emitting CO<sub>2</sub></a><p>
 
 {{< /rawhtml >}}
