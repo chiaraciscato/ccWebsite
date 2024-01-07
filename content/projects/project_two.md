@@ -11,7 +11,6 @@ links:
 ---
 
 {{< rawhtml >}}
-
 <head>
     <style>
         .btn1 {
@@ -19,11 +18,11 @@ links:
             background-color: white;
             border-radius: 10px;
             color: black;
-            padding: 20px 40px;
-            font-size: 16px;
+            padding: 15px 20px;
+            font-size: 13px;
             cursor: pointer;
             position: absolute;
-            right: 35%;
+            right: 40%;
             top: 41%
         }
     </style>
@@ -51,7 +50,13 @@ links:
     </script>
 </body>
 
+{{< /rawhtml >}}
+
 <!-- <center><img loading="lazy" src="" alt="" class="centerImage" width="700" height="380"></center> -->
+
+### Context
+
+{{< rawhtml >}}
 
 <p>The Arctic is the Earth's region that lies North of the 66° 34' parallel. Geographically, it expands over multiple countries, including Canada, Finland, Greenland, Iceland, Norway, Russia, Sweden and the United States, in Alaska, and it is mainly composed of water that freezes over the cold months and melts over the warm months.</p> 
 

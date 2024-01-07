@@ -21,10 +21,6 @@ params:
             url: https://www.linkedin.com/in/chiara-ciscato-3964bb1b7/
           - name: github
             url: https://github.com/chiaraciscato
-    socialInFooter: true
-
-# cover:
-#     cover.linkFullImages: true
 
 menu:
   main:

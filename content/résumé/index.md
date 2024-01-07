@@ -9,7 +9,7 @@ showbreadcrumbs: true
 {{< rawhtml >}}
 
 <p align="center"><a href="shortCV.pdf" download="chiaraciscatoCV">
-<button class="btn"> download PDF <i class="fa fa-download"></i></button></a> <p>
+<button class="btn"> download CV <i class="fa fa-download"></i></button></a> <p>
 
 
 <center>

@@ -1,5 +1,5 @@
 ---
-title: Effects of Ocean Alkalinity Enhancement on the Seasonal Cycle of CO₂ and Ocean pCO₂
+title: Effects of Ocean Alkalinity Enhancement on the Seasonal Cycle of CO₂ Flux and Ocean pCO₂
 draft: false
 language: english
 hideSummary: true
@@ -18,11 +18,11 @@ links:
             background-color: white;
             border-radius: 10px;
             color: black;
-            padding: 15px 40px;
-            font-size: 16px;
+            padding: 15px 20px;
+            font-size: 13px;
             cursor: pointer;
             position: absolute;
-            right: 35%;
+            right: 40%;
             top: 53%
         }
     </style>
