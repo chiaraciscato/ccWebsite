@@ -12,7 +12,46 @@ links:
 
 {{< rawhtml >}}
 
-<center><img loading="lazy" src="/MonthlyArcticTemp.png" alt="" class="centerImage" width="700" height="380"></center>
+<head>
+    <style>
+        .btn1 {
+            border: .5px solid black;
+            background-color: white;
+            border-radius: 10px;
+            color: black;
+            padding: 20px 40px;
+            font-size: 16px;
+            cursor: pointer;
+            position: absolute;
+            right: 35%;
+            top: 41%
+        }
+    </style>
+</head>
+<body>
+    <div class="container" style="text-align: center; margin-top: 5em;">
+        <img src="/MonthlyArcticTemp.png" onclick="enlargeImg()" id="ampl" />
+        <br /><br /><br />
+        <div class="btn1">
+            <button onclick="resetImg()">reset image size</button>
+        </div>
+    </div>
+    
+    <!-- script to set display property -->
+    <script>
+        img = document.getElementById("ampl");
+        function enlargeImg() {
+            img.style.transform = "scale(1.4)";
+            img.style.transition = "transform 0.25s ease";
+        }
+        function resetImg() {
+            img.style.transform = "scale(1)";
+            img.style.transition = "transform 0.25s ease";
+        }
+    </script>
+</body>
+
+<!-- <center><img loading="lazy" src="" alt="" class="centerImage" width="700" height="380"></center> -->
 
 <p>The Arctic is the Earth's region that lies North of the 66° 34' parallel. Geographically, it expands over multiple countries, including Canada, Finland, Greenland, Iceland, Norway, Russia, Sweden and the United States, in Alaska, and it is mainly composed of water that freezes over the cold months and melts over the warm months.</p> 
 

@@ -10,12 +10,53 @@ links:
   url: https://github.com/chiaraciscato/OAEseasonality/tree/main
 ---
 
-
 {{< rawhtml >}}
+<head>
+    <style>
+        .btn1 {
+            border: .5px solid black;
+            background-color: white;
+            border-radius: 10px;
+            color: black;
+            padding: 15px 40px;
+            font-size: 16px;
+            cursor: pointer;
+            position: absolute;
+            right: 35%;
+            top: 53%
+        }
+    </style>
+</head>
+<body>
+    <div class="container" style="text-align: center; margin-top: 5em;">
+        <img src="/alkalinity_addition.png" onclick="enlargeImg()" id="ampl" />
+        <br /><br /><br />
+        <div class="btn1">
+            <button onclick="resetImg()">reset image size</button>
+        </div>
+    </div>
+    
+    <!-- script to set display property -->
+    <script>
+        img = document.getElementById("ampl");
+        function enlargeImg() {
+            img.style.transform = "scale(1.2)";
+            img.style.transition = "transform 0.25s ease";
+        }
+        function resetImg() {
+            img.style.transform = "scale(1)";
+            img.style.transition = "transform 0.25s ease";
+        }
+    </script>
+</body>
+
+{{< /rawhtml >}}
+
+<!-- {{< rawhtml >}}
 
 <center><img loading="lazy" src="/alkalinity_addition.png" alt="" class="centerImage" width="500" height="500"></center>
 
-{{< /rawhtml >}}
+{{< /rawhtml >}} -->
 
 ### Abstract
 
@@ -27,4 +68,4 @@ links:
 
 {{< /rawhtml >}}
 
-**[dowload my MSc Thesis](/mscThesis.pdf)**
+**[download my MSc Thesis](/mscThesis.pdf)**
