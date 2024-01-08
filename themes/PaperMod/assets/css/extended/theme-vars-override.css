@@ -12,11 +12,11 @@
 
 
 .dark {
-    --theme: rgb(15, 40, 45);
+    --theme: rgb(41, 104, 116);
     --entry: #b9cad1;
-    --primary: rgba(255, 255, 255, 0.96);
-    --secondary: rgba(255, 255, 255, 0.96);
-    --tertiary: rgba(255, 255, 255, 0.96);
+    --primary: rgba(41, 104, 116);
+    --secondary: rgba(41, 104, 116);
+    --tertiary: rgba(41, 104, 116);
     --content: rgba(235, 235, 255, 0.96);
     --hljs-bg: #fefefe;
     --code-bg: #fcfbfb;
