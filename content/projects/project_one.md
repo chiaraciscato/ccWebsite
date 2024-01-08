@@ -3,6 +3,10 @@ title: Effects of Ocean Alkalinity Enhancement on the Seasonal Cycle of CO₂ Fl
 draft: false
 language: english
 hideSummary: true
+tags:
+    - Python
+    - Climate Change
+    - Carbon Dioxide Removal
 links:
 - icon: github
   icon_pack: fab

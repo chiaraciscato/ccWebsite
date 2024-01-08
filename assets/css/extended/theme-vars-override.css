@@ -1,4 +1,4 @@
-:root {
+/* :root {
     --theme: #fff;
     --entry: #cfcfff;
     --primary: rgba(0, 0, 0, 0.88);
@@ -9,10 +9,10 @@
     --code-bg: #c0c2c9;
     --border: #eee;
 }
-
+*/
 
 .dark {
-    --theme: rgb(15, 40, 45);
+    --theme: rgb(41, 104, 116);
     --entry: #b9cad1;
     --primary: rgba(255, 255, 255, 0.96);
     --secondary: rgba(255, 255, 255, 0.96);
@@ -22,5 +22,3 @@
     --code-bg: #fcfbfb;
     --border: rgb(255, 255, 255);
 } 
-
-/* 41, 104, 116 */

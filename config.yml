@@ -5,22 +5,42 @@ theme: PaperMod
 email: chiaraciscato@email.com
 copyright: chiara ciscato 
 
+
 params:
-    ShowBreadCrumbs: true
-    profileMode:
-        enabled: true
-        title: "Hi, I'm Chiara and I am a Climate scientist" 
-        subtitle: "My research interests lie in the understanding of global as well as local climate change through data-driven storytelling."
-        imageUrl: "avatar.png" 
-        imageTitle: "chiara" 
-        imageWidth: 150
-        imageHeight: 150
-    disableScrollToTop: false
-    socialIcons: 
-          - name: linkedin
-            url: https://www.linkedin.com/in/chiara-ciscato-3964bb1b7/
-          - name: github
-            url: https://github.com/chiaraciscato
+  EnableInstantClick: true
+  ShowBreadCrumbs: true
+  profile: true
+  ShowToc: false
+  defaultTheme: auto
+  disableThemeToggle: false
+  ShowReadingTime: false
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: false
+  ShowRssButtonInSectionTermList: false
+  disableScrollToTop: false
+
+
+  profileMode:
+      enabled: true
+      title: "Hi, I'm Chiara and I am a Climate scientist" 
+      subtitle: "My research interests lie in the understanding of global as well as local climate change through data-driven storytelling."
+      imageUrl: "avatar.png" 
+      imageTitle: "chiara" 
+      imageWidth: 150
+      imageHeight: 150
+      buttons:
+        - name: tags
+          url: "/tags"
+
+
+  socialIcons: 
+        - name: github
+          url: https://github.com/chiaraciscato
+        - name: linkedin
+          url: https://www.linkedin.com/in/chiara-ciscato-3964bb1b7/
+
 
 menu:
   main:
@@ -40,11 +60,3 @@ menu:
       name: Write me
       pageRef: /Write me
       weight: 4
-
-
-taxonomies:
-    - category: categories
-    - series: series
-    - tag: tags
-
-

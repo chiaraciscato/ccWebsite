@@ -1,0 +1,9 @@
+<div class="social-icons" style="padding-top: 15px; padding-bottom: 0px;">
+    {{- range . }}
+    <!-- link description below -->
+     <!-- Added style="border-bottom: none;" to disable underline below social icon -->
+    <a href="{{ trim .url " " | safeURL }}" target="_blank" rel="noopener noreferrer me" title="{{ (.title | default .name) | title }}" style="border-bottom: none">
+        {{ partial "svg.html" . }}
+    </a>
+    {{- end }}
+</div>
