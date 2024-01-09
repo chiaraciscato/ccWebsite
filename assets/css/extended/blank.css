@@ -5,21 +5,12 @@ Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-cs
 */
 
 
-/* @font-face {
-    font-family: 'Pathway Extreme', sans-serif;
-    src: url('/fonts/pathwayextreme.ttf') format('truetype'),
-        url('/fonts/pathwayextreme.ttf') format('truetype');
-    font-weight: light;
-    font-style: light;
-}
-
 body {
-    font-family: 'Pathway Extreme', sans-serif;
-    font-size: 18;
+    /* webpage font size */
+    font-size: 15px;
 }
 pre, code {
-    font-family: 'Pathway Extreme', sans-serif;
-    font-size: 20px;
+    font-size: 40px;
 }
 
 .entry-footer,
@@ -42,4 +33,4 @@ pre, code {
 .page-content,
 .page-footnote {
     font-size: 0.8em;
-} */
+}

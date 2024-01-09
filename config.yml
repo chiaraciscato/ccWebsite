@@ -60,3 +60,7 @@ menu:
       name: Write me
       pageRef: /Write me
       weight: 4
+
+
+# for help in website building and css modifications
+# I refer to (and thank) https://jessewei.dev/blog/2023/papermod/
