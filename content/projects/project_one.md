@@ -26,8 +26,8 @@ links:
             font-size: 13px;
             cursor: pointer;
             position: absolute;
-            right: 40%;
-            top: 53%
+            /* right: 40%;
+            top: 53% */
         }
     </style>
 </head>
@@ -61,6 +61,12 @@ links:
 <center><img loading="lazy" src="/alkalinity_addition.png" alt="" class="centerImage" width="500" height="500"></center>
 
 {{< /rawhtml >}} -->
+
+{{< rawhtml >}}
+
+<p style="margin-bottom:7em"></p>
+
+{{< /rawhtml >}}
 
 ### Abstract
 

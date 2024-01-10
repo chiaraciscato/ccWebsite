@@ -64,3 +64,7 @@ menu:
 
 # for help in website building and css modifications
 # I refer to (and thank) https://jessewei.dev/blog/2023/papermod/
+
+
+# important #
+# to change font style and size ccWebsite/layouts/partials/extend_head.html

@@ -26,8 +26,8 @@ links:
             font-size: 13px;
             cursor: pointer;
             position: absolute;
-            right: 40%;
-            top: 41%
+            /* right: 40%;
+            top: 41% */
         }
     </style>
 </head>
@@ -57,6 +57,12 @@ links:
 {{< /rawhtml >}}
 
 <!-- <center><img loading="lazy" src="" alt="" class="centerImage" width="700" height="380"></center> -->
+
+{{< rawhtml >}}
+
+<p style="margin-bottom:7em"></p>
+
+{{< /rawhtml >}}
 
 ### Context
 
