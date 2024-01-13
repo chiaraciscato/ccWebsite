@@ -1,6 +1,5 @@
 ---
-title: >-
- Climate Change in the Arctic
+title: Climate Change in the Arctic
 draft: false
 language: english
 tags:
@@ -10,6 +9,7 @@ tags:
 hideSummary: true
 links:
 - icon: github
+  icon_pack: fab
   name: Code
   url: https://github.com/chiaraciscato/arcticVisuals/
 ---
@@ -74,7 +74,20 @@ links:
 
 <p>With regard to climate change, the Arctic is an area of extreme vulnerability. Temperatures are rising twice to three times as fast compared to the global average, in a process that is commonly referred to as Arctic amplification. When sea ice melts, it leaves land and ocean surfaces uncovered which, of darker colour, absorb heat and accelerate further ice loss. </p>
 
+{{< /rawhtml >}}
+
+[access the GitHub repository](https://github.com/chiaraciscato/arcticVisuals/tree/main) 
+
+{{< rawhtml >}}
+
 <hr />
+
+{{< /rawhtml >}}
+
+<p>
+</p>
+
+{{< rawhtml >}}
 
 <p>Here are some of my contributions for <a href="https://www.osservatorioartico.it/" title="OsservatorioArtico">OsservatorioArtico</a>, an Italian online journal that focuses on the Arctic region:<p>
 

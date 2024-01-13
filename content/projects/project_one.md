@@ -78,4 +78,10 @@ links:
 
 {{< /rawhtml >}}
 
+
+[access the GitHub repository](https://github.com/chiaraciscato/OAEseasonality/tree/main) 
+
+<p>
+</p>
+
 **[download my MSc Thesis](/mscThesis.pdf)**
