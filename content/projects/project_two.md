@@ -92,6 +92,6 @@ links:
 <p>Here are some of my contributions for <a href="https://www.osservatorioartico.it/" title="OsservatorioArtico">OsservatorioArtico</a>, an Italian online journal that focuses on the Arctic region:<p>
 
 <p><a href="https://www.osservatorioartico.it/amplificazione-artica/" title="What is Arctic Amplification">What is Arctic Amplification</a><p>
-<p><a href="" title="The Beaufort Sea is emitting CO<sub>2</sub>">The Beaufort Sea is emitting CO<sub>2</sub></a><p>
+<p><a href="https://www.osservatorioartico.it/mare-co2-beaufort/" title="The Beaufort Sea is emitting CO<sub>2</sub>">The Beaufort Sea is emitting CO<sub>2</sub></a><p>
 
 {{< /rawhtml >}}
