@@ -25,7 +25,8 @@ params:
   profileMode:
       enabled: true
       title: "Hi, I'm Chiara and I am a Climate scientist" 
-      subtitle: "My research interests lie in the understanding of global as well as local climate change through data-driven storytelling."
+      subtitle: "My research interests lie in the understanding of global.\n
+      as well as local climate change through data-driven storytelling."
       imageUrl: "avatar.png" 
       imageTitle: "chiara" 
       imageWidth: 150

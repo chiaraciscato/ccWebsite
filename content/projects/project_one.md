@@ -14,7 +14,7 @@ links:
   url: https://github.com/chiaraciscato/OAEseasonality/tree/main
 ---
 
-{{< rawhtml >}}
+<!-- {{< rawhtml >}}
 <head>
     <style>
         .btn1 {
@@ -54,9 +54,11 @@ links:
     </script>
 </body>
 
-{{< /rawhtml >}}
+{{< /rawhtml >}} -->
 
-<!-- {{< rawhtml >}}
+![alkalinity addition simulation](/alkalinity_addition.png)
+<!-- 
+{{< rawhtml >}}
 
 <center><img loading="lazy" src="/alkalinity_addition.png" alt="" class="centerImage" width="500" height="500"></center>
 
