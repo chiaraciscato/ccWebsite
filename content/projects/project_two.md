@@ -16,11 +16,11 @@ links:
 
 ![monthly arctic temp](/MonthlyArcticTemp.png)
 
-{{< rawhtml >}}
+<!-- {{< rawhtml >}}
 
 <p style="margin-bottom:7em"></p>
 
-{{< /rawhtml >}}
+{{< /rawhtml >}} -->
 
 ### Context
 
