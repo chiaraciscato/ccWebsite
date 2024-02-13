@@ -51,5 +51,6 @@ links:
 
 <p><a href="https://www.osservatorioartico.it/amplificazione-artica/" title="What is Arctic Amplification">What is Arctic Amplification</a><p>
 <p><a href="https://www.osservatorioartico.it/mare-co2-beaufort/" title="The Beaufort Sea is emitting CO<sub>2</sub>">The Beaufort Sea is emitting CO<sub>2</sub></a><p>
+<p><a href="https://www.osservatorioartico.it/oscillazione-artica/" title="How Arctic Oscillation works">How Arctic Oscillation works</a><p>
 
 {{< /rawhtml >}}
