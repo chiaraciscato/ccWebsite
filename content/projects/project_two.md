@@ -54,19 +54,19 @@ image:
 
 {{< rawhtml >}}
 
-<p><a href="https://www.osservatorioartico.it/amplificazione-artica/" title="What is Arctic Amplification">
-    <img src="/ArcticAmplification.png" alt="Arctic Amplification Image">
-    What is Arctic Amplification
-</a></p>
-
-<p><a href="https://www.osservatorioartico.it/mare-co2-beaufort/" title="The Beaufort Sea is emitting CO<sub>2</sub>">
-    <img src="/beaufortSea.png" alt="Beaufort Sea CO2 Emission Image">
-    The Beaufort Sea is emitting CO<sub>2</sub>
-</a></p>
-
-<p><a href="https://www.osservatorioartico.it/oscillazione-artica/" title="How Arctic Oscillation works">
-    <img src="/arcticOscillscatter.png" alt="Arctic Oscillation Image">
-    How Arctic Oscillation works
-</a></p>
+<div style="display: inline-flex; justify-content: center;">
+    <p><a href="https://www.osservatorioartico.it/amplificazione-artica/" title="What is Arctic Amplification">
+        <img src="/ArcticAmplification.png" alt="Arctic Amplification Image" width="230">
+        Arctic Amplification
+    </a></p>
+    <p><a href="https://www.osservatorioartico.it/mare-co2-beaufort/" title="The Beaufort Sea is emitting CO<sub>2</sub>">
+        <img src="/beaufortSea.png" alt="Beaufort Sea CO2 Emission Image" width="230">
+        The Beaufort Sea
+    </a></p>
+    <p><a href="https://www.osservatorioartico.it/oscillazione-artica/" title="How Arctic Oscillation works">
+        <img src="/arcticOscillscatter.png" alt="Arctic Oscillation Image" width="230">
+        Arctic Oscillation
+    </a></p>
+</div>
 
 {{< /rawhtml >}}
