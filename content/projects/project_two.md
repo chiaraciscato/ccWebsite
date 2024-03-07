@@ -52,18 +52,20 @@ image:
 <p>
 </p>
 
+These are the articles written by me for [OsservatorioArtico](https://www.osservatorioartico.it/), an Italian online newspaper centered around the Arctic region
+
 {{< rawhtml >}}
 
-<div style="display: inline-flex; justify-content: center;">
-    <p><a href="https://www.osservatorioartico.it/amplificazione-artica/" title="What is Arctic Amplification">
+<div style="display: flex; justify-content: space-around; align-items: center;">
+    <p style="text-align: center;"><a href="https://www.osservatorioartico.it/amplificazione-artica/" title="What is Arctic Amplification">
         <img src="/ArcticAmplification.png" alt="Arctic Amplification Image" width="230">
         Arctic Amplification
     </a></p>
-    <p><a href="https://www.osservatorioartico.it/mare-co2-beaufort/" title="The Beaufort Sea is emitting CO<sub>2</sub>">
+    <p style="text-align: center;"><a href="https://www.osservatorioartico.it/mare-co2-beaufort/" title="The Beaufort Sea is emitting CO<sub>2</sub>">
         <img src="/beaufortSea.png" alt="Beaufort Sea CO2 Emission Image" width="230">
         The Beaufort Sea
     </a></p>
-    <p><a href="https://www.osservatorioartico.it/oscillazione-artica/" title="How Arctic Oscillation works">
+    <p style="text-align: center;"><a href="https://www.osservatorioartico.it/oscillazione-artica/" title="How Arctic Oscillation works">
         <img src="/arcticOscillscatter.png" alt="Arctic Oscillation Image" width="230">
         Arctic Oscillation
     </a></p>
