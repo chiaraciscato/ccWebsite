@@ -61,7 +61,7 @@ These are the articles written by me for [OsservatorioArtico](https://www.osserv
         <img src="/ArcticAmplification.png" alt="Arctic Amplification Image" width="230">
         Arctic Amplification
     </a></p>
-    <p style="text-align: center;"><a href="https://www.osservatorioartico.it/mare-co2-beaufort/" title="The Beaufort Sea is emitting CO<sub>2</sub>">
+    <p style="text-align: center;"><a href="https://www.osservatorioartico.it/mare-co2-beaufort/" title="The Beaufort Sea is emitting CO2">
         <img src="/beaufortSea.png" alt="Beaufort Sea CO2 Emission Image" width="230">
         The Beaufort Sea
     </a></p>
@@ -69,6 +69,11 @@ These are the articles written by me for [OsservatorioArtico](https://www.osserv
         <img src="/arcticOscillscatter.png" alt="Arctic Oscillation Image" width="230">
         Arctic Oscillation
     </a></p>
+</div>
+<div style="display: flex; justify-content: space-around; align-items: center;">
+    <p style="text-align: center;"><a href="https://www.osservatorioartico.it/caldo-marino/" title="Arctic marine heatwaves">
+        <img src="/arcticMarineHeatwave.png" alt="Arctic marine heatwaves Image" width="230">
+        Arctic marine heatwaves
 </div>
 
 {{< /rawhtml >}}
