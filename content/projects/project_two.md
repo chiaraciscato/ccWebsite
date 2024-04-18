@@ -19,6 +19,10 @@ image:
   alt: "Beaufort Sea.pngImage"
   src: "/arcticOscillscatter.png"
   alt: "Arctic Oscillation Image"
+  src: "/arcticMarineHeatwave.png"
+  alt: "Arctic Marine Heatwave Image"
+  src: "/ArcticAtlantification.png"
+  alt: "Arctic Atlantification Image"
 ---
 
 ![monthly arctic temp](/MonthlyArcticTemp.png)
@@ -74,6 +78,11 @@ These are the articles written by me for [OsservatorioArtico](https://www.osserv
     <p style="text-align: center;"><a href="https://www.osservatorioartico.it/caldo-marino/" title="Arctic marine heatwaves">
         <img src="/arcticMarineHeatwave.png" alt="Arctic marine heatwaves Image" width="230">
         Arctic marine heatwaves
+    </a></p>
+    <p style="text-align: center;"><a href="https://www.osservatorioartico.it/atlantificazione-artico/" title="Arctic Atlantification">
+        <img src="/ArcticAtlantification.png" alt="Arctic Atlantification Image" width="230">
+        Arctic Atlantification
+    </a></p>
 </div>
 
 {{< /rawhtml >}}
