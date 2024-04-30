@@ -23,25 +23,33 @@ image:
   alt: "Arctic Marine Heatwave Image"
   src: "/ArcticAtlantification.png"
   alt: "Arctic Atlantification Image"
+  src: "/arcticSHP.png"
+  alt: "Arctic Shapefile Image"
 ---
 
-![monthly arctic temp](/MonthlyArcticTemp.png)
+<!-- ![arctic shapefile](/arcticSHP.png) -->
 
-<!-- {{< rawhtml >}}
+{{< rawhtml >}}
 
-<p style="margin-bottom:7em"></p>
+<div style="display: flex; justify-content: space-around; align-items: center;">
+    <p style="text-align: center;"><a title="Arctic Shapefile">
+        <img src="/arcticSHP.png" alt="Arctic Shapefile Image" width="430">
+    </a></p>
+</div>
 
-{{< /rawhtml >}} -->
+<!-- <p style="margin-bottom:1em"></p> -->
+
+{{< /rawhtml >}}
 
 ### Context
 
 {{< rawhtml >}}
 
-<p>The Arctic is the Earth's region that lies North of the 66° 34' parallel. Geographically, it expands over multiple countries, including Canada, Finland, Greenland, Iceland, Norway, Russia, Sweden and the United States, in Alaska, and it is mainly composed of water that freezes over the cold months and melts over the warm months.</p> 
+<p>The Arctic is the Earth's region that lies North of the 66° 34' parallel. Geographically, it expands over multiple countries, including Canada, Finland, Denmark (through Greenland), Iceland, Norway, Russia, Sweden and the United States (through Alaska). It is, therefore, an ocean surrounded by land, mainly composed of water that freezes over the cold months and melts over the warm months.</p> 
 
-<p>Together with its geographic opposite, the Antarctic, the Arctic has a fundamental role in global climate stabilisation. On the one hand, its white surface is able to radiate most of the incoming solar radiation back into space, therefore reflecting part of the Sun's heat. On the other, the Arctic tundra stores immense quantities of carbon dioxide (CO<sub>2</sub>) and methane (CH<sub>4</sub>) that would otherwise contribute to further global warming.</p>
+<p>Together with its geographic opposite, the Antarctic, the Arctic has a fundamental role in global climate stabilisation. On the one hand, its white surface is able to radiate most of the incoming solar radiation back into space, therefore reflecting part of the Sun's heat. On the other, the Arctic tundra stores immense quantities of carbon dioxide (CO<sub>2</sub>) and methane (CH<sub>4</sub>) that would otherwise contribute to further global warming. Additionally, the Arctic holds last reservoirs of freshwater, stored in its glaciers and icebergs.</p>
 
-<p>With regard to climate change, the Arctic is an area of extreme vulnerability. Temperatures are rising twice to three times as fast compared to the global average, in a process that is commonly referred to as Arctic amplification. When sea ice melts, it leaves land and ocean surfaces uncovered which, of darker colour, absorb heat and accelerate further ice loss. </p>
+<p>With regard to climate change, the Arctic is an area of extreme vulnerability. Temperatures are rising twice to three times as fast compared to the global average, in a process that is commonly referred to as Arctic amplification. When sea ice melts, it leaves land and ocean surfaces uncovered which, due to their darker colour, absorb heat and accelerate further ice loss. </p>
 
 {{< /rawhtml >}}
 
